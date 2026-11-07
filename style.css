@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 *{
-    font-family:'Century Gothic', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: display ;
     background-color: rgb(224, 218, 230);
     color : rgb(58, 3, 3);
